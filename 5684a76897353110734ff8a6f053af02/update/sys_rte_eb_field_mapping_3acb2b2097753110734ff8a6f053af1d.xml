@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="sn_ihub_target_category">a2cbe72097753110734ff8a6f053afb0</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-07 14:33:34</sys_created_on>
+        <sys_id>3acb2b2097753110734ff8a6f053af1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1127228_safety">5684a76897353110734ff8a6f053af02</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Issues Data Mapping_etl_ihub">2fbb27ec97353110734ff8a6f053afe4</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="IHUB_TEMP_TARGET_MAPPING">b6cb2b2097753110734ff8a6f053af19</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="Safety">5684a76897353110734ff8a6f053af02</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_3acb2b2097753110734ff8a6f053af1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-07 14:33:34</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Category">7fbba72097753110734ff8a6f053afba</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+</record_update>

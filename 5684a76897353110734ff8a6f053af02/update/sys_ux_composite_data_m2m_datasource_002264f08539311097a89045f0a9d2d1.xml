@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">cc2264f0dd393110bd342bdb630fdcd4</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">042264f08439311079f19db6c7a2ffd3</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-07 18:31:00</sys_created_on>
+        <sys_id>002264f08539311097a89045f0a9d2d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety" source="x_1127228_safety">5684a76897353110734ff8a6f053af02</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">5684a76897353110734ff8a6f053af02</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_002264f08539311097a89045f0a9d2d1</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-07 18:31:00</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

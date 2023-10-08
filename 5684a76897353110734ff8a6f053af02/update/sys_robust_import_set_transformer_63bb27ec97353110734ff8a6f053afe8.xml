@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description>RTE definition for Issues Data Mapping</description>
+        <name>Issues Data Mapping_rte_ihub</name>
+        <properties/>
+        <robust_transform_engine display_value="Issues Data Mapping_etl_ihub">2fbb27ec97353110734ff8a6f053afe4</robust_transform_engine>
+        <source_table>x_1127228_safety_ihub_import_c7bbefec97353110734ff8a6f053afc7</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-07 14:33:21</sys_created_on>
+        <sys_id>63bb27ec97353110734ff8a6f053afe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Issues Data Mapping_rte_ihub</sys_name>
+        <sys_package display_value="Safety" source="x_1127228_safety">5684a76897353110734ff8a6f053af02</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">5684a76897353110734ff8a6f053af02</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_63bb27ec97353110734ff8a6f053afe8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-07 14:33:21</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>
